@@ -1,0 +1,17 @@
+{
+  "name": "user_sign_up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "config": "^3.3.7",
+    "neo4j-driver": "^4.4.2",
+    "uuid": "^8.3.2"
+  }
+}
